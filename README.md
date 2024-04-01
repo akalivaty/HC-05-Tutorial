@@ -64,7 +64,7 @@ BTserial.begin(38400);
 
 ### Steps
 
-1. **VCC on HC-05 keeps floating in advance
+1. VCC** on HC-05 keeps floating in advance
 2. Keep the button on the HC-05 pressed and connect VCC to 5V
 3. Release the button when LED on HC-05 blinks slowly, indicating that it is in AT command mode
 4. (**Important**) Check the baud rate and the output setting, both NL and CR are required (if not, you wouldn't see the "OK" response)
