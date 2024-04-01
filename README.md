@@ -1,6 +1,8 @@
-<center class = "half">
-    <img src="./img/front.jpg" width="300"/><img src="./img/back.jpg" width="300"/>
-</center>
+<div align="center">
+    <img src="./img/front.jpg" width="300"/>
+    <img src="./img/back.jpg" width="300"/>
+</div>
+<br/>
 
 A monitor application is required for inputting AT commands if you want to use PlatformIO. Or Arduino IDE is more easier.
 
