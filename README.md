@@ -62,7 +62,7 @@ BTserial.begin(38400);
 
 **EN** and **STATE** keep floating
 
-### Steps
+### Steps for AT command mode
 
 1. VCC** on HC-05 keeps floating in advance
 2. Keep the button on the HC-05 pressed and connect VCC to 5V
