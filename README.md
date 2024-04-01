@@ -1,3 +1,7 @@
+<center class = "half">
+    <img src="./img/front.jpg" width="300"/><img src="./img/back.jpg" width="300"/>
+</center>
+
 A monitor application is required for inputting AT commands if you want to use PlatformIO. Or Arduino IDE is more easier.
 
 ## Some things you need to know in advance
